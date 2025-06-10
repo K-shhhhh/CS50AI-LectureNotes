@@ -1,6 +1,6 @@
 # 🧠 CS50 AI - Lecture 0: Search
 
-This lecture explores the foundational ideas of **search in Artificial Intelligence** — how an agent finds its way from an initial state to a goal state using different strategies.
+This lecture explores the foundational ideas of **search in Artificial Intelligence** — how an agent finds its way from an initial state to a goal state using different strategies
 
 ---
 
